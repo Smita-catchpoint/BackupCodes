@@ -1,0 +1,14 @@
+C:\Practice\AsyncProgramming\AsyncProgramming\bin\Debug\net6.0\AsyncProgramming.exe
+C:\Practice\AsyncProgramming\AsyncProgramming\bin\Debug\net6.0\AsyncProgramming.deps.json
+C:\Practice\AsyncProgramming\AsyncProgramming\bin\Debug\net6.0\AsyncProgramming.runtimeconfig.json
+C:\Practice\AsyncProgramming\AsyncProgramming\bin\Debug\net6.0\AsyncProgramming.dll
+C:\Practice\AsyncProgramming\AsyncProgramming\bin\Debug\net6.0\AsyncProgramming.pdb
+C:\Practice\AsyncProgramming\AsyncProgramming\obj\Debug\net6.0\AsyncProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\AsyncProgramming\AsyncProgramming\obj\Debug\net6.0\AsyncProgramming.AssemblyInfoInputs.cache
+C:\Practice\AsyncProgramming\AsyncProgramming\obj\Debug\net6.0\AsyncProgramming.AssemblyInfo.cs
+C:\Practice\AsyncProgramming\AsyncProgramming\obj\Debug\net6.0\AsyncProgramming.csproj.CoreCompileInputs.cache
+C:\Practice\AsyncProgramming\AsyncProgramming\obj\Debug\net6.0\AsyncProgramming.dll
+C:\Practice\AsyncProgramming\AsyncProgramming\obj\Debug\net6.0\refint\AsyncProgramming.dll
+C:\Practice\AsyncProgramming\AsyncProgramming\obj\Debug\net6.0\AsyncProgramming.pdb
+C:\Practice\AsyncProgramming\AsyncProgramming\obj\Debug\net6.0\AsyncProgramming.genruntimeconfig.cache
+C:\Practice\AsyncProgramming\AsyncProgramming\obj\Debug\net6.0\ref\AsyncProgramming.dll
