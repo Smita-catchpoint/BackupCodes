@@ -1,0 +1,14 @@
+C:\Practice\Solid_Principles\Solid_Principles\bin\Debug\net6.0\Solid_Principles.exe
+C:\Practice\Solid_Principles\Solid_Principles\bin\Debug\net6.0\Solid_Principles.deps.json
+C:\Practice\Solid_Principles\Solid_Principles\bin\Debug\net6.0\Solid_Principles.runtimeconfig.json
+C:\Practice\Solid_Principles\Solid_Principles\bin\Debug\net6.0\Solid_Principles.dll
+C:\Practice\Solid_Principles\Solid_Principles\bin\Debug\net6.0\Solid_Principles.pdb
+C:\Practice\Solid_Principles\Solid_Principles\obj\Debug\net6.0\Solid_Principles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\Solid_Principles\Solid_Principles\obj\Debug\net6.0\Solid_Principles.AssemblyInfoInputs.cache
+C:\Practice\Solid_Principles\Solid_Principles\obj\Debug\net6.0\Solid_Principles.AssemblyInfo.cs
+C:\Practice\Solid_Principles\Solid_Principles\obj\Debug\net6.0\Solid_Principles.csproj.CoreCompileInputs.cache
+C:\Practice\Solid_Principles\Solid_Principles\obj\Debug\net6.0\Solid_Principles.dll
+C:\Practice\Solid_Principles\Solid_Principles\obj\Debug\net6.0\refint\Solid_Principles.dll
+C:\Practice\Solid_Principles\Solid_Principles\obj\Debug\net6.0\Solid_Principles.pdb
+C:\Practice\Solid_Principles\Solid_Principles\obj\Debug\net6.0\Solid_Principles.genruntimeconfig.cache
+C:\Practice\Solid_Principles\Solid_Principles\obj\Debug\net6.0\ref\Solid_Principles.dll
