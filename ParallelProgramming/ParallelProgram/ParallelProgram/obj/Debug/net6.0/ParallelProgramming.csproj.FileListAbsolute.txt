@@ -1,0 +1,14 @@
+C:\Practice\ParallelProgramming\ParallelProgram\ParallelProgram\bin\Debug\net6.0\ParallelProgramming.exe
+C:\Practice\ParallelProgramming\ParallelProgram\ParallelProgram\bin\Debug\net6.0\ParallelProgramming.deps.json
+C:\Practice\ParallelProgramming\ParallelProgram\ParallelProgram\bin\Debug\net6.0\ParallelProgramming.runtimeconfig.json
+C:\Practice\ParallelProgramming\ParallelProgram\ParallelProgram\bin\Debug\net6.0\ParallelProgramming.dll
+C:\Practice\ParallelProgramming\ParallelProgram\ParallelProgram\bin\Debug\net6.0\ParallelProgramming.pdb
+C:\Practice\ParallelProgramming\ParallelProgram\ParallelProgram\obj\Debug\net6.0\ParallelProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\ParallelProgramming\ParallelProgram\ParallelProgram\obj\Debug\net6.0\ParallelProgramming.AssemblyInfoInputs.cache
+C:\Practice\ParallelProgramming\ParallelProgram\ParallelProgram\obj\Debug\net6.0\ParallelProgramming.AssemblyInfo.cs
+C:\Practice\ParallelProgramming\ParallelProgram\ParallelProgram\obj\Debug\net6.0\ParallelProgramming.csproj.CoreCompileInputs.cache
+C:\Practice\ParallelProgramming\ParallelProgram\ParallelProgram\obj\Debug\net6.0\ParallelProgramming.dll
+C:\Practice\ParallelProgramming\ParallelProgram\ParallelProgram\obj\Debug\net6.0\refint\ParallelProgramming.dll
+C:\Practice\ParallelProgramming\ParallelProgram\ParallelProgram\obj\Debug\net6.0\ParallelProgramming.pdb
+C:\Practice\ParallelProgramming\ParallelProgram\ParallelProgram\obj\Debug\net6.0\ParallelProgramming.genruntimeconfig.cache
+C:\Practice\ParallelProgramming\ParallelProgram\ParallelProgram\obj\Debug\net6.0\ref\ParallelProgramming.dll

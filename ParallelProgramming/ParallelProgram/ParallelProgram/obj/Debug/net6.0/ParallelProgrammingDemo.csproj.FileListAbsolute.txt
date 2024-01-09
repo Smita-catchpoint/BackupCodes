@@ -1,0 +1,4 @@
+C:\Practice\ParallelProgramming\ParallelProgram\ParallelProgram\obj\Debug\net6.0\ParallelProgrammingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\ParallelProgramming\ParallelProgram\ParallelProgram\obj\Debug\net6.0\ParallelProgrammingDemo.AssemblyInfoInputs.cache
+C:\Practice\ParallelProgramming\ParallelProgram\ParallelProgram\obj\Debug\net6.0\ParallelProgrammingDemo.AssemblyInfo.cs
+C:\Practice\ParallelProgramming\ParallelProgram\ParallelProgram\obj\Debug\net6.0\ParallelProgrammingDemo.csproj.CoreCompileInputs.cache
