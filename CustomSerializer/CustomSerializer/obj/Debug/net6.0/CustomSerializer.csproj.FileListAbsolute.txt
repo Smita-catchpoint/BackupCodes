@@ -1,0 +1,17 @@
+C:\Practice\CustomSerializer\CustomSerializer\bin\Debug\net6.0\CustomSerializer.exe
+C:\Practice\CustomSerializer\CustomSerializer\bin\Debug\net6.0\CustomSerializer.deps.json
+C:\Practice\CustomSerializer\CustomSerializer\bin\Debug\net6.0\CustomSerializer.runtimeconfig.json
+C:\Practice\CustomSerializer\CustomSerializer\bin\Debug\net6.0\CustomSerializer.dll
+C:\Practice\CustomSerializer\CustomSerializer\bin\Debug\net6.0\CustomSerializer.pdb
+C:\Practice\CustomSerializer\CustomSerializer\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Practice\CustomSerializer\CustomSerializer\obj\Debug\net6.0\CustomSerializer.csproj.AssemblyReference.cache
+C:\Practice\CustomSerializer\CustomSerializer\obj\Debug\net6.0\CustomSerializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\CustomSerializer\CustomSerializer\obj\Debug\net6.0\CustomSerializer.AssemblyInfoInputs.cache
+C:\Practice\CustomSerializer\CustomSerializer\obj\Debug\net6.0\CustomSerializer.AssemblyInfo.cs
+C:\Practice\CustomSerializer\CustomSerializer\obj\Debug\net6.0\CustomSerializer.csproj.CoreCompileInputs.cache
+C:\Practice\CustomSerializer\CustomSerializer\obj\Debug\net6.0\CustomSerializer.csproj.CopyComplete
+C:\Practice\CustomSerializer\CustomSerializer\obj\Debug\net6.0\CustomSerializer.dll
+C:\Practice\CustomSerializer\CustomSerializer\obj\Debug\net6.0\refint\CustomSerializer.dll
+C:\Practice\CustomSerializer\CustomSerializer\obj\Debug\net6.0\CustomSerializer.pdb
+C:\Practice\CustomSerializer\CustomSerializer\obj\Debug\net6.0\CustomSerializer.genruntimeconfig.cache
+C:\Practice\CustomSerializer\CustomSerializer\obj\Debug\net6.0\ref\CustomSerializer.dll
